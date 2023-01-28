@@ -2,6 +2,11 @@ class ABC
 {
 	 public void m1()
 	{
-	      //code
+	      ///code
+	}
+	
+	 public void m2()
+	{
+	      ///code2
 	}
 }
